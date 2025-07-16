@@ -1,2 +1,2 @@
-# Credit-Risk-Fraud-Dashboard
-An interactive AI dashboard to predict loan default probability using XGBoost and Streamlit.
+# User-Friendly Credit Risk Dashboard
+Run with `streamlit run app.py`
